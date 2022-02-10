@@ -1,0 +1,11 @@
+@charset "UTF-8";
+
+@font-face {
+  font-family: 'Rubik';
+  src: local('Rubik Bold'), local('Rubik-Bold'),
+  url('../../fonts/rubik-700-normal.woff2') format('woff2'),
+  url('../../fonts/rubik-700-normal.woff') format('woff'),
+  url('../../fonts/rubik-700-normal.ttf') format('truetype');
+  font-weight: 700;
+  font-style: normal;
+}

@@ -1,0 +1,27 @@
+{
+    "name": "@getscope/npm-webfont-rubik",
+    "private": true,
+    "version": "1.0.0",
+    "description": "Package to install webfont: Rubik.",
+    "keywords": [
+        "getscope",
+        "npm",
+        "webfont",
+        "rubik"
+    ],
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "homepage": "https://github.com/getscope/npm-webfont-rubik",
+    "license": "MIT",
+    "author": {
+        "name": "bu0nq",
+        "email": "hello@bu0nq.ru",
+        "homepage": "https://bu0nq.ru",
+        "role": "Developer"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/getscope/npm-webfont-rubik.git"
+    }
+}
